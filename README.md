@@ -13,7 +13,6 @@
 ## 应用
 
 ### 影音
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是一个开源的播放软件 
-[![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是一个开源的播放软件 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - Ardour 是一个开源音频工作站，可以进行编曲混音母带处理等专业操作 ![Freeware][Freeware Icon]
 - [Audacious](http://audacious-media-player.org/) - Audacious 是一款Linux下的音乐播放器 [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
