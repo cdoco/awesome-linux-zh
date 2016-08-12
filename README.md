@@ -51,10 +51,10 @@
 ### 桌面定制
 - [Arc Theme](https://github.com/horst3180/arc-theme) - 一个拥有透明和扁平元素的桌面主题，并且与多个桌面环境和Linux发行版兼容 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - 这个项目带来了3D桌面视觉效果，提高了窗口系统的可用性 ![Freeware][Freeware Icon]
-- [Conky](https://github.com/brndnmtthws/conky) - 一个好用的桌面监控系统，可以在桌面上显示系统信息 [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)![Freeware][Freeware Icon]
+- [Conky](https://github.com/brndnmtthws/conky) - 一个好用的桌面监控系统，可以在桌面上显示系统信息 [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky) ![Freeware][Freeware Icon]
 - [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 一个超好看的扁平化 Ubuntu/Gnome 桌面主题 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Gnome Extensions](http://extensions.gnome.org/) - Gnome 桌面环境的一些扩展 ![Freeware][Freeware Icon]
-- [Gnome Look](https://www.gnome-look.org/) - 这个网站有大量的自定义图标字体，你可以根据这里来定制自己的 Gnome桌面 [Freeware][Freeware Icon]
+- [Gnome Look](https://www.gnome-look.org/) - 这个网站有大量的自定义图标字体，你可以根据这里来定制自己的 Gnome桌面 ![Freeware][Freeware Icon]
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - 最好的 Ubuntu 图标主题之一 [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - 很不错的一个主题 [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - 最好的 Ubuntu 图标主题之一 [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
