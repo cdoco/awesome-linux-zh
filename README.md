@@ -13,7 +13,7 @@
 ## 应用
 
 ### 音频
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - 一个开源的收听广播的软件。 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - 一个开源的收听广播的软件 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - 一个开源音频工作站，可以进行编曲混音母带处理等专业操作 ![Freeware][Freeware Icon]
 - [Audacious](http://audacious-media-player.org/) - 一款Linux下的音乐播放器，支持UTF-8字符集 [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
 - [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的软件，录制和编辑乐曲 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
@@ -33,7 +33,7 @@
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - 一个跨平台的即时通讯客户端 ![Freeware][Freeware Icon]
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - 一个 Slack 客户端 [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
 - [Skype](https://www.skype.com/en/) - Skype ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - 简介好用的一个即时通讯客户端 [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - 简洁好用的一个即时通讯客户端 [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
 - [Viber](https://www.viber.com/en/products/linux) - 一种智能手机用的跨平台网络电话及即时通讯软件，能在3G和WiFi网络上运作 ![Freeware][Freeware Icon]
 - [Weechat](https://weechat.org/) - 是个快速的轻量级 IRC 客户端，可以在多种操作系统中运行 [![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
 - [Whatsie](https://github.com/Aluxian/Whatsie) - WhatsApp官方客户端 [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
