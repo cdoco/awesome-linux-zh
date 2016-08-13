@@ -4,6 +4,10 @@
 
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
+🐧 翻译自 [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Software) ，此外整合补充了一些其他资源
+
+🐧 欢迎小伙伴踊跃贡献新资源，直接提交PR即可
+
 ## 目录
 
 - [应用](#应用)
