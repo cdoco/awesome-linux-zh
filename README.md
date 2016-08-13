@@ -11,6 +11,7 @@
     - [聊天工具](#聊天工具)
     - [数据备份与恢复](#数据备份与恢复)
     - [桌面定制](#桌面定制)
+    - [开发工具](#开发工具)
 
 ## 应用
 
@@ -60,6 +61,43 @@
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - 最好的 Ubuntu 图标主题之一 [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - unity 桌面定制的必备应用 [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - 一个高仿 OSX Yosemite 的主题. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
+
+### 开发工具
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) - 一个轻量级且便捷的PHP IDE，其旨在提供用户效率，可深刻理解用户的编码，提供智能代码补全，快速导航以及即时错误检查 ![Freeware][Freeware Icon]
+- [Android studio](https://developer.android.com/studio/index.html) - 官方出的Android开发环境，基于IntelliJ IDEA. 类似 Eclipse ADT，Android Studio 提供了集成的 Android 开发工具用于开发和调试 ![Freeware][Freeware Icon]
+- [Aptana](http://www.aptana.com/) - 一个基于Eclipse的javascript集成开发环境 ![Freeware][Freeware Icon]
+- [Atom](https://atom.io/) - 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持CSS，HTML，JavaScript等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Arduino 出的一个IDE，可以让你更容易的去写代码 ![Freeware][Freeware Icon]
+- [BlueJ](http://bluej.org/) - 专为教学而设计的、Java环境下的一个内置编辑器、编译器、虚拟机、调试器的多应用软件 ![Freeware][Freeware Icon]
+- [Code::Blocks](http://www.codeblocks.org/) - 一个开放源码的全功能的跨平台C/C++集成开发环境 ![Freeware][Freeware Icon]
+- [Codelite](http://codelite.org/) - 一个功能强大的开源的C/C++编程语言的跨平台IDE ![Freeware][Freeware Icon]
+- [Eclipse](https://eclipse.org/ide/) - 一个开放源代码的、基于Java的可扩展开发平台。就其本身而言，它只是一个框架和一组服务，用于通过插件组件构建开发环境。幸运的是，Eclipse 附带了一个标准的插件集，包括Java开发工具（Java Development Kit，JDK）![Freeware][Freeware Icon]
+- [Fritzing](http://fritzing.org/) - Fritzing是个电子设计自动化软件。它支持设计师，艺术家，研究人员和爱好者参加从物理原型到进一步实际的产品 [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) ![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - 一个小巧的使用GTK+2开发的跨平台的开源集成开发环境 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) ![Freeware][Freeware Icon]
+- [Genymotion](https://www.genymotion.com/features/) - Genymotion是一套完整的工具，它提供了Android虚拟环境。它简直就是开发者、测试人员、推销者甚至是游戏玩家的福音 ![Freeware][Freeware Icon]
+- [Git](https://git-scm.com/) - Git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目 ![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - java语言开发的集成环境，IntelliJ在业界被公认为最好的java开发工具之一 ![Freeware][Freeware Icon]
+- [Ipython](https://ipython.org/) -一个 python 的交互式 shell，比默认的python shell 好用得多，支持变量自动补全，自动缩进，支持 bash shell 命令，内置了许多很有用的功能和函数 [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) ![Freeware][Freeware Icon]
+- [KDevelop](https://www.kdevelop.org/) - 一个自由，开放源代码 的 IDE（集成开发环境），包括Linux，Solaris，FreeBSD，Max OS X 以及其他类Unix系统，它是一个功能全，可扩展的IDE ![Freeware][Freeware Icon]
+- [Komodo Edit](http://komodoide.com/komodo-edit/) - 是一个跨平台支持多种程序语言的IDE,目前他支持了Perl、Python及JavaScript等的程序语言开发,以及多种程序语言语法不同颜色标注 ![Freeware][Freeware Icon]
+- [Lighttable](http://lighttable.com/) - 一个应用ClojureScript写的可扩展的集成编辑环境 ![Freeware][Freeware Icon]
+- [MariaDB](https://mariadb.org/) - MariaDB数据库管理系统是MySQL的一个分支，主要由开源社区在维护，采用GPL授权许可 MariaDB的目的是完全兼容MySQL，包括API和命令行，使之能轻松成为MySQL的代替品 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [MonoDevelop](http://www.monodevelop.com/) - 主要用来开发Mono与.NET的IDE，也支持Python、Vala、Java、BOO、Nemerle、T、CIL、C与C++ 等语言 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Nemiver](https://github.com/GNOME/nemiver) - 一款基于 GTK+ 的用于C/C++程序的图形化的独立调试器，它以GDB作为其后端 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE可以使开发人员利用Java平台能够快速创建Web、企业、桌面以及移动的应用程序，NetBeans IDE已经支持PHP、Ruby、JavaScript、Groovy、Grails和C/C++等开发语言 ![Freeware][Freeware Icon]
+- [NodeJS](https://nodejs.org/en/) - Node.js是一个Javascript运行环境(runtime)，实际上它是对Google V8引擎进行了封装 ![Freeware][Freeware Icon]
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 一个非常好用的 zsh 配置管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [PyCharm](https://www.jetbrains.com/pycharm/) - 一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具 ![Freeware][Freeware Icon]
+- [Postgresql](https://www.postgresql.org/download/) - 一个自由的对象-关系型数据库 ![Freeware][Freeware Icon]
+- [Postman](https://www.getpostman.com) - Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插件 ![Freeware][Freeware Icon]
+- [QT Creator](https://www.qt.io/ide/) - 跨平台的 Qt IDE ![Freeware][Freeware Icon]
+- [Rabbit VCS](http://rabbitvcs.org/) - 图形化界面的SVN客户端软件 ![Freeware][Freeware Icon]
+- [Sqlite Browser](http://sqlitebrowser.org/) - 一个可视化数据库浏览器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [Sublime](https://www.sublimetext.com/) - 最好用的编辑器之一 ![Freeware][Freeware Icon]
+- [Swift](https://swift.org/download/) - Swift 是一种新的编程语言，用于编写 iOS 和 OS X 应用 ![Freeware][Freeware Icon]
+- [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - Ubuntu SDK 是 ubuntu touch 移动触摸系统软件开发工具包 ![Freeware][Freeware Icon]
+- [VSCode](https://code.visualstudio.com) - 一款免费开源的现代化轻量级代码编辑器，支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配等 ![Freeware][Freeware Icon]
+- [Zsh](http://www.zsh.org/) - 一个非常好用的shell终端 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
