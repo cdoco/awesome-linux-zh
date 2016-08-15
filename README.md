@@ -17,6 +17,7 @@
     - [电子书工具](#电子书工具)
     - [编辑器](#编辑器)
     - [邮件](#邮件)
+    - [浏览器](#浏览器)
 - [其他资源列表](#其他资源列表)
 
 ## 应用
@@ -135,7 +136,7 @@
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird是一个支持IMAP、POP3的邮件客户端工具，它提供了一个向导程序，能让你导入来自Outlook和Outlook Express的邮件和邮箱地址 ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - 一个webmail邮件系统,具有十分友好美观的用户界面 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
-### Internet
+### 浏览器
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是 Google 的chrome浏览器背后的引擎，其目的是为了创建一个安全、稳定和快速的通用浏览器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
