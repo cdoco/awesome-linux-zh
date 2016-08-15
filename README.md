@@ -16,16 +16,17 @@
     - [数据备份与恢复](#数据备份与恢复)
     - [桌面定制](#桌面定制)
     - [开发工具](#开发工具)
+    - [办公软件](#办公软件)
 
 ## 应用
 
 ### 音频
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - 一个开源的收听广播的软件 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - 一个用于收听广播的开源软件 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - 一个开源音频工作站，可以进行编曲混音母带处理等专业操作 ![Freeware][Freeware Icon]
 - [Audacious](http://audacious-media-player.org/) - 一款Linux下的音乐播放器，支持UTF-8字符集 [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
-- [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的软件，录制和编辑乐曲 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - 一个录音软件，可以等于便携式数字录音机，便携式音频录音机 [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
-- [Clementine](https://www.clementine-player.org/) - 可以播放有损和无损音频格式 ![Freeware][Freeware Icon]
+- [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的录制和编曲软件 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - 便携式录音机 [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
+- [Clementine](https://www.clementine-player.org/) - 跨平台的优秀音频播放器 ![Freeware][Freeware Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方的，但是是一个非常好看的跨平台的谷歌桌面音乐播放器 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - 一个设计给 KDE在Linux或其它类Unix系统上的CD/DVD烧录的自由软件 [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 一个免费的开源版本的DJ混音软件，适用于专业级别的用户 [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
@@ -103,6 +104,16 @@
 - [VSCode](https://code.visualstudio.com) - 一款免费开源的现代化轻量级代码编辑器，支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配等 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) - 一个非常好用的shell终端 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
+### 办公软件
+- [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
+- [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
+- [LibreOffice](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
+- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon]
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+
+
