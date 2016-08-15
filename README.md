@@ -128,7 +128,7 @@
 - [Lighttable](http://lighttable.com/) - LightTable 是由 clojure 和 css 开发的全新理念的 IDE，支持多种语言 ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - 最好用的编辑器之一 ![Freeware][Freeware Icon]
 - [VSCode](https://code.visualstudio.com) - 一款免费开源的现代化轻量级代码编辑器，支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配等 ![Freeware][Freeware Icon]
-- [Vim](www.vim.org/download.php) - Vim是从 vi 发展出来的一个文本编辑器。代码补完、编译及错误跳转等方便编程的功能特别丰富 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
+- [Vim](http://www.vim.org/download.php) - Vim是从 vi 发展出来的一个文本编辑器。代码补完、编译及错误跳转等方便编程的功能特别丰富 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
 
 ### 邮件
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一个基于 Gnome 桌面的 Email 客户端程序，采用 Vala 语言编写 ![Freeware][Freeware Icon]
