@@ -1,8 +1,6 @@
-# Linux 资源大全
+# Linux 资源大全 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VoLuong/Awesome-Ubuntu-Linux)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VoLuong/Awesome-Ubuntu-Linux)
-
-![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
+![linux](http://i.imgur.com/3F0xXh8.jpg)
 
 🐧 翻译自 [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Software) ，此外整合补充了一些其他资源
 
@@ -21,6 +19,11 @@
     - [安全](#安全)
     - [共享文件](#共享文件)
     - [终端](#终端)
+    - [电子书工具](#电子书工具)
+    - [编辑器](#编辑器)
+    - [邮件](#邮件)
+    - [浏览器](#浏览器)
+- [其他资源列表](#其他资源列表)
 
 ## 应用
 
@@ -187,6 +190,55 @@
 - [Xterm](http://invisible-island.net/xterm/) - xterm程序是一个X window系统的终端仿真器,它提供了不能直接使用窗口系统的程序的兼容终端DEC VT102 和 Tektronix 4014.![Freeware][Freeware Icon]
 - [Yakuake](https://yakuake.kde.org/) - 一个Quake-style终端,基于KDE konsole技术.![Freeware][Freeware Icon]
 
+### 电子书工具
+- [Calibre](http://calibre-ebook.com/) - 一个完整的电子图书馆，包括图书馆管理，格式转换，新闻，将材料转换为电子书，以及电子书阅读器同步功能、整合进电子图书阅读器 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - evince 是一个支持多种格式的文件浏览器，如的PostScript ， PDF格式，单页和多页TIFF ， DVI接口， DjVu ，等等 [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - 国产的一个P非常好用DF阅读器 ![Freeware][Freeware Icon]
+- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - FBReader是一个电子书阅读器，支持多种电子书格式： epub, plucker, palmdoc, zTXT, HTML, CHM 等 ![Freeware][Freeware Icon]
+- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor 是一个用来阅读电子书的扩展，支持 EPUB 文件格式，和 OPDS 格式中的目录 ![Freeware][Freeware Icon]
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor是一款很方便的pdf编辑工具，支持PDF和XPS文件的导入导出到JPG、TIFF、PNG、BMP等图片格式，可以添加按钮、文本、选择框等 ![Freeware][Freeware Icon]
+- [MuPDF](http://mupdf.com/) - MuPDF 是一款轻量级的 PDF 阅读器 [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
+- [Okular](https://okular.kde.org/) - Okular 是一个在 KDE 4 下的 PDF 文档浏览器，基于 KPDF 开发 ![Freeware][Freeware Icon]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil是一款由Google官方发布的软件。Sigil主要是用于创建和编辑电子书籍，尤其是能对ePub进行创建和修改 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+
+### 编辑器
+- [Atom](https://atom.io/) - 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持CSS，HTML，JavaScript等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - 一款能够进行Web代码设计的文本编辑器 ![Freeware][Freeware Icon]
+- [Brackets](http://brackets.io/) - Brackets 是 Adobe 的开源 HTML/CSS/JavaScript 集成开发环境 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
+- [Emacs](https://www.gnu.org/software/emacs/) - 非常强大的文本编辑器 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - Geany 是一个小型的 C 代码编辑器，使用 GTK2 开发的开发环境 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) - 这是 Linux 下的一个纯文本编辑器,但你也可以把它用来当成是一个IDE, 它会根据不同的语言高亮显现关键字和标识符 ![Freeware][Freeware Icon]
+- [Kate](https://kate-editor.org/get-it/) - Kate 是 KDE 项目的一部分，用户可以在Kate中开启构建系统功能 [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
+- [Lighttable](http://lighttable.com/) - LightTable 是由 clojure 和 css 开发的全新理念的 IDE，支持多种语言 ![Freeware][Freeware Icon]
+- [Sublime](https://www.sublimetext.com/) - 最好用的编辑器之一 ![Freeware][Freeware Icon]
+- [VSCode](https://code.visualstudio.com) - 一款免费开源的现代化轻量级代码编辑器，支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配等 ![Freeware][Freeware Icon]
+- [Vim](http://www.vim.org/download.php) - Vim是从 vi 发展出来的一个文本编辑器。代码补完、编译及错误跳转等方便编程的功能特别丰富 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
+
+### 邮件
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一个基于 Gnome 桌面的 Email 客户端程序，采用 Vala 语言编写 ![Freeware][Freeware Icon]
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一款和桌面环境深度整合的邮件提示程序 [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird是一个支持IMAP、POP3的邮件客户端工具，它提供了一个向导程序，能让你导入来自Outlook和Outlook Express的邮件和邮箱地址 ![Freeware][Freeware Icon]
+- [Wmail](https://github.com/Thomas101/wmail) - 一个webmail邮件系统,具有十分友好美观的用户界面 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+
+### 浏览器
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon]
+- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是 Google 的chrome浏览器背后的引擎，其目的是为了创建一个安全、稳定和快速的通用浏览器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+
+## 其他资源列表
+
+* [awesome](https://github.com/sindresorhus/awesome)
+* [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)
+* [awesome-android-cn](https://github.com/jobbole/awesome-android-cn)
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+* [awesome-php](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN)
+* [awesome-shell](https://github.com/alebcay/awesome-shell)
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+* [awesome-vim](http://vimawesome.com/)
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
+
+
+**[⬆ top](#目录)**
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
