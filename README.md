@@ -17,6 +17,8 @@
     - [电子书工具](#电子书工具)
     - [编辑器](#编辑器)
     - [邮件](#邮件)
+    - [文件管理器](#文件管理器)
+    - [游戏](#游戏)
     - [浏览器](#浏览器)
     - [办公软件](#办公软件)
     - [生产力](#生产力)
@@ -140,6 +142,34 @@
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一款和桌面环境深度整合的邮件提示程序 [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird是一个支持IMAP、POP3的邮件客户端工具，它提供了一个向导程序，能让你导入来自Outlook和Outlook Express的邮件和邮箱地址 ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - 一个webmail邮件系统,具有十分友好美观的用户界面 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+
+### 文件管理器
+- [7Zip](http://www.7-zip.org/download.html) - 一款通用的解压缩软件.![Freeware][Freeware Icon]
+- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux文件实时搜索. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
+- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander是一个跨平台的双面板开源文件管理器,灵感来源于Total Commander,并且有一些新的功能.![Freeware][Freeware Icon]
+- [Marlin](https://launchpad.net/marlin) - 一个简洁优雅速度快的文件管理器. ![Freeware][Freeware Icon]
+- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) 是安装在GNOME的一个文件管理器,旨在为用户已提供便利.![Freeware][Freeware Icon]
+- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo为Cinnamon desktop打造的文件管理器.[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
+- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 无需依赖KDE的文件管理器.[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
+- [Ranger](http://ranger.nongnu.org/) - Ranger是一个使用VI快捷键绑定的文件管理器.[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
+- [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux下最好的应用启动器.![Freeware][Freeware Icon]
+- [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar是Xfce 4.6的默认文件管理器,它具有速度快和易于使用等特点. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
+
+### 游戏
+- [0 A.D](https://play0ad.com/) - 类似于帝国时代的开源即时战略游戏.
+- [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® 是史上最伟大的战略游戏系列.
+- [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多人在线桌面卡牌游戏.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
+- [Desura](http://www.desura.com/about) - Desura 是一个社区驱动的数字游戏发行商,提供游戏/MODS等下载.
+- [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy是一个脑筋急转弯游戏,呢衣帮助你训练你的大脑. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
+- [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft是一款像素风的冒险游戏,你可以探索未知的世界或者建造城堡或者其他惊人的事情.![Freeware][Freeware Icon]
+- [Minetest](http://www.minetest.net/) - 一个包含新API的C++开源版的Minecraft . [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
+- [PlayOnLinux](https://www.playonlinux.com/en/) - 在Linux上玩windows游戏. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
+- [Simutrans](https://www.simutrans.com/en/) - Simutrans是一个开源免费的交通模拟器. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
+- [Steam](http://store.steampowered.com/) - 了不起的游戏平台,里面有很多游戏.![Freeware][Freeware Icon]
+- [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart是一个开源3D的赛程类游戏,拥有多种模式和赛道.[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
+- [Warzone2100](https://wz2100.net/) - 开源的即时策略游戏. [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
+- [Wine](https://www.winehq.org/) - Wine可以在多个平台运行windows程序,例如 Linux, Mac OSX, & BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
+- [Xonotic](http://xonotic.org/) - 是一款虚拟竞技场的射击游戏. [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
 
 ### 浏览器
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon]
