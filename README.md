@@ -19,6 +19,7 @@
     - [邮件](#邮件)
     - [文件管理器](#文件管理器)
     - [游戏](#游戏)
+    - [图形设计](#图形设计)
     - [浏览器](#浏览器)
     - [办公软件](#办公软件)
     - [生产力](#生产力)
@@ -170,6 +171,33 @@
 - [Warzone2100](https://wz2100.net/) - 开源的即时策略游戏. [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
 - [Wine](https://www.winehq.org/) - Wine可以在多个平台运行windows程序,例如 Linux, Mac OSX, & BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
 - [Xonotic](http://xonotic.org/) - 是一款虚拟竞技场的射击游戏. [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
+
+### 图形设计
+- [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - 一个功能强大的替代Photoshop的软件!
+- [Agave](http://home.gna.org/colorscheme/) - Agave是GNOME下简单的生成单一颜色的色彩设计软件.![Freeware][Freeware Icon]
+- [Blender](https://www.blender.org/) - 为小团队与设计师而开发的免费开源3D建模工具.![Freeware][Freeware Icon]
+- [Cinepaint](http://www.cinepaint.org/) - 开源绘图软件. ![Freeware][Freeware Icon]
+- [Darktable](http://www.darktable.org/) - darktable是一款帮助专业摄影师的进行照片管理及后期处理的图形工具.![Freeware][Freeware Icon]
+- [Digikam](http://www.digikam.org/) - digiKam是Linux下先进的数码照片管理程序.![Freeware][Freeware Icon]
+- [Feh](https://feh.finalrewind.org/) - 轻量快速的图片浏览器.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
+- [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx是Linux下开源免费的图片收藏管理和图片编辑软件.![Freeware][Freeware Icon]
+- [GIMP](https://www.gimp.org/downloads/) - GIMP是一个免费分发的照片修补,图像合成和图像编辑的软件.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
+- [Hugin](http://hugin.sourceforge.net/) - 一个基于全景工具的跨平台全景成像工具.![Freeware][Freeware Icon]
+- [Inkscape](https://inkscape.org/en/) - 一个功能强大且免费的适用于大部分人的矢量图制作工具.![Freeware][Freeware Icon]
+- [Krita](https://krita.org/en/) - 面向艺术家,画家,插画师的开源软件![Freeware][Freeware Icon]
+- [Lightworks](https://www.lwks.com/) - 专业非线性视频编辑程序,有免费版
+- [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR是一个开放源代码的图形用户界面的应用程序，旨在提供一个HDR影像工作流程.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
+- [Mypaint](http://mypaint.org/about/) - Mypaint是一个使用绘图板的绘图程序. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
+- [Ojo](https://github.com/peterlevi/ojo) - 一个快速简洁的图像浏览器. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
+- [OpenShot](http://www.openshot.org/) - OpenShot是Linux下免费,简单易用,功能丰富的视频编辑器. ![Freeware][Freeware Icon]
+- [Photonic](https://github.com/oferkv/phototonic) - Phototonic是一个图像浏览器. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一个免费开放源码的用于绘图和图像编辑程序.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
+- [Pitivi](http://www.pitivi.org/) - 一个拥有简洁优雅的界面的免费编辑器,同事还拥有干净的代码库和一个友好的社区.![Freeware][Freeware Icon]
+- [Radiance](http://www.radiance-online.org/) - Radiance一个照明仿真软件![Freeware][Freeware Icon]
+- [RawTherapee](http://rawtherapee.com/) - 一个很好看，但不知名的照片编辑应用程序.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell是GNOME 3的照片管理器.![Freeware][Freeware Icon]
+- [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion是一个免费开源的创建停止运动动画的软甲,它可以帮助您捕获和编辑您的动画的帧，并将它们作为一个单一的文件导出.![Freeware][Freeware Icon]
+- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux是一个强大的、通用的图形程序同时也支持Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
 
 ### 浏览器
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 非常好用的 Web 浏览器之一 ![Freeware][Freeware Icon]
