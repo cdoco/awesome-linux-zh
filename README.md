@@ -14,7 +14,6 @@
     - [数据备份与恢复](#数据备份与恢复)
     - [桌面定制](#桌面定制)
     - [开发工具](#开发工具)
-    - [终端](#终端)
     - [电子书工具](#电子书工具)
     - [编辑器](#编辑器)
     - [邮件](#邮件)
@@ -23,6 +22,7 @@
     - [生产力](#生产力)
     - [安全](#安全)
     - [共享文件](#共享文件)
+    - [终端](#终端)
 - [其他资源列表](#其他资源列表)
 
 ## 应用
@@ -110,18 +110,6 @@
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - Ubuntu SDK 是 ubuntu touch 移动触摸系统软件开发工具包 ![Freeware][Freeware Icon]
 - [VSCode](https://code.visualstudio.com) - 一款免费开源的现代化轻量级代码编辑器，支持几乎所有主流的开发语言的语法高亮、智能代码补全、自定义热键、括号匹配等 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) - 一个非常好用的shell终端 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-
-### 终端
-- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - 一个在linux世界广泛预装终端模拟器 ![Freeware][Freeware Icon]
-- [Guake](http://guake.org/) - Guake是一个自上而下的Gnome终端![Freeware][Freeware Icon]
-- [Konsole](https://konsole.kde.org/) - KDE桌面环境的最佳终端.![Freeware][Freeware Icon]
-- [RXVT](http://rxvt.sourceforge.net/) - X11的终端模拟器,一个受欢迎的替代标准的xterm.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
-- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode是一个众所周知的终端模拟器的分支.[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
-- [Sakura](https://launchpad.net/sakura) - 简单但强大的基于libvte终端模拟器,支持utf - 8和输入方法提供的gtk +和pango库. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
-- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 在基于功能的终端上,Terminator是功能做强大的.![Freeware][Freeware Icon]
-- [Termit](https://github.com/nonstop/termit/wiki) - 基于vte library的简单终端,可通过lua进行拓展.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
-- [Xterm](http://invisible-island.net/xterm/) - xterm程序是一个X window系统的终端仿真器,它提供了不能直接使用窗口系统的程序的兼容终端DEC VT102 和 Tektronix 4014.![Freeware][Freeware Icon]
-- [Yakuake](https://yakuake.kde.org/) - 一个Quake-style终端,基于KDE konsole技术.![Freeware][Freeware Icon]
 
 ### 电子书工具
 - [Calibre](http://calibre-ebook.com/) - 一个完整的电子图书馆，包括图书馆管理，格式转换，新闻，将材料转换为电子书，以及电子书阅读器同步功能、整合进电子图书阅读器 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
@@ -224,6 +212,18 @@
 - [Teamviewer](https://www.teamviewer.com/ ) - PC远程控制/远程访问软件，免费供个人使用.![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/download/) - 简单，轻量级，多平台的bt客户端. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
 - [uGet](http://ugetdm.com/) - 最好的Linux下载管理器. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
+
+### 终端
+- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - 一个在linux世界广泛预装终端模拟器 ![Freeware][Freeware Icon]
+- [Guake](http://guake.org/) - Guake是一个自上而下的Gnome终端![Freeware][Freeware Icon]
+- [Konsole](https://konsole.kde.org/) - KDE桌面环境的最佳终端.![Freeware][Freeware Icon]
+- [RXVT](http://rxvt.sourceforge.net/) - X11的终端模拟器,一个受欢迎的替代标准的xterm.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
+- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode是一个众所周知的终端模拟器的分支.[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
+- [Sakura](https://launchpad.net/sakura) - 简单但强大的基于libvte终端模拟器,支持utf - 8和输入方法提供的gtk +和pango库. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
+- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 在基于功能的终端上,Terminator是功能做强大的.![Freeware][Freeware Icon]
+- [Termit](https://github.com/nonstop/termit/wiki) - 基于vte library的简单终端,可通过lua进行拓展.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
+- [Xterm](http://invisible-island.net/xterm/) - xterm程序是一个X window系统的终端仿真器,它提供了不能直接使用窗口系统的程序的兼容终端DEC VT102 和 Tektronix 4014.![Freeware][Freeware Icon]
+- [Yakuake](https://yakuake.kde.org/) - 一个Quake-style终端,基于KDE konsole技术.![Freeware][Freeware Icon]
 
 ## 其他资源列表
 
