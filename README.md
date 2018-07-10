@@ -117,7 +117,7 @@
 ### 电子书工具
 - [Calibre](http://calibre-ebook.com/) - 一个完整的电子图书馆，包括图书馆管理，格式转换，新闻，将材料转换为电子书，以及电子书阅读器同步功能、整合进电子图书阅读器 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 - [Evince](https://wiki.gnome.org/Apps/Evince) - evince 是一个支持多种格式的文件浏览器，如的PostScript ， PDF格式，单页和多页TIFF ， DVI接口， DjVu ，等等 [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - 国产的一个P非常好用DF阅读器 ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - 国产的一个非常好用PDF阅读器 ![Freeware][Freeware Icon]
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - FBReader是一个电子书阅读器，支持多种电子书格式： epub, plucker, palmdoc, zTXT, HTML, CHM 等 ![Freeware][Freeware Icon]
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor 是一个用来阅读电子书的扩展，支持 EPUB 文件格式，和 OPDS 格式中的目录 ![Freeware][Freeware Icon]
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor是一款很方便的pdf编辑工具，支持PDF和XPS文件的导入导出到JPG、TIFF、PNG、BMP等图片格式，可以添加按钮、文本、选择框等 ![Freeware][Freeware Icon]
